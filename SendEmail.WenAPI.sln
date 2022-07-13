@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendEmail.WenAPI", "SendEmail.WenAPI\SendEmail.WenAPI.csproj", "{A745D4F2-9125-4733-B817-C90635F19AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendEmail.Core", "SendEmail.Core\SendEmail.Core.csproj", "{AFEFBCE0-0E15-4711-A81A-C98FBF706F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A745D4F2-9125-4733-B817-C90635F19AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A745D4F2-9125-4733-B817-C90635F19AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A745D4F2-9125-4733-B817-C90635F19AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A745D4F2-9125-4733-B817-C90635F19AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFEFBCE0-0E15-4711-A81A-C98FBF706F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEFBCE0-0E15-4711-A81A-C98FBF706F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEFBCE0-0E15-4711-A81A-C98FBF706F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEFBCE0-0E15-4711-A81A-C98FBF706F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A2CFD8A-C45A-4370-A771-B055C8241AA8}
+	EndGlobalSection
+EndGlobal

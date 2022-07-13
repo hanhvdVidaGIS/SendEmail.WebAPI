@@ -1,0 +1,12 @@
+H:\Net core\WebAPI\SendEmail.WenAPI\SendEmail.Core\bin\Debug\net6.0\SendEmail.Core.deps.json
+H:\Net core\WebAPI\SendEmail.WenAPI\SendEmail.Core\bin\Debug\net6.0\SendEmail.Core.dll
+H:\Net core\WebAPI\SendEmail.WenAPI\SendEmail.Core\bin\Debug\net6.0\SendEmail.Core.pdb
+H:\Net core\WebAPI\SendEmail.WenAPI\SendEmail.Core\obj\Debug\net6.0\SendEmail.Core.csproj.AssemblyReference.cache
+H:\Net core\WebAPI\SendEmail.WenAPI\SendEmail.Core\obj\Debug\net6.0\SendEmail.Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\Net core\WebAPI\SendEmail.WenAPI\SendEmail.Core\obj\Debug\net6.0\SendEmail.Core.AssemblyInfoInputs.cache
+H:\Net core\WebAPI\SendEmail.WenAPI\SendEmail.Core\obj\Debug\net6.0\SendEmail.Core.AssemblyInfo.cs
+H:\Net core\WebAPI\SendEmail.WenAPI\SendEmail.Core\obj\Debug\net6.0\SendEmail.Core.csproj.CoreCompileInputs.cache
+H:\Net core\WebAPI\SendEmail.WenAPI\SendEmail.Core\obj\Debug\net6.0\SendEmail.Core.dll
+H:\Net core\WebAPI\SendEmail.WenAPI\SendEmail.Core\obj\Debug\net6.0\refint\SendEmail.Core.dll
+H:\Net core\WebAPI\SendEmail.WenAPI\SendEmail.Core\obj\Debug\net6.0\SendEmail.Core.pdb
+H:\Net core\WebAPI\SendEmail.WenAPI\SendEmail.Core\obj\Debug\net6.0\ref\SendEmail.Core.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5BTBbT6Eb/8rrx2v6HYTMVr4Vg0A5IjdyZ4rfkqMbbI=",
+  "Source": "SendEmail.WenAPI",
+  "BasePath": "_content/SendEmail.WenAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
